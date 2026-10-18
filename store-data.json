@@ -1,0 +1,347 @@
+{
+  "telegram": {
+    "botToken": "8676654468:AAGULDoR_laPN8hfcXTeiNfXWz7Pg2PI-Jo",
+    "chatId": "7406503831",
+    "whatsapp": "0654200353",
+    "adminPin": "amine123",
+    "fbPixelId": "",
+    "tiktokPixelId": "",
+    "shippingRates": {
+      "10": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "11": {
+        "homePrice": 1300,
+        "deskPrice": 600
+      },
+      "12": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "13": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "14": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "15": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "16": {
+        "homePrice": 500,
+        "deskPrice": 400
+      },
+      "17": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "18": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "19": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "20": {
+        "homePrice": 600,
+        "deskPrice": 400
+      },
+      "21": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "22": {
+        "homePrice": 600,
+        "deskPrice": 400
+      },
+      "23": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "24": {
+        "homePrice": 800,
+        "deskPrice": 400
+      },
+      "25": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "26": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "27": {
+        "homePrice": 600,
+        "deskPrice": 400
+      },
+      "28": {
+        "homePrice": 800,
+        "deskPrice": 500
+      },
+      "29": {
+        "homePrice": 500,
+        "deskPrice": 300
+      },
+      "30": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "31": {
+        "homePrice": 600,
+        "deskPrice": 400
+      },
+      "32": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "33": {
+        "homePrice": 1300,
+        "deskPrice": 0
+      },
+      "34": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "35": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "36": {
+        "homePrice": 800,
+        "deskPrice": 0
+      },
+      "37": {
+        "homePrice": 1300,
+        "deskPrice": 0
+      },
+      "38": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "39": {
+        "homePrice": 1000,
+        "deskPrice": 500
+      },
+      "40": {
+        "homePrice": 800,
+        "deskPrice": 500
+      },
+      "41": {
+        "homePrice": 800,
+        "deskPrice": 500
+      },
+      "42": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "43": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "44": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "45": {
+        "homePrice": 900,
+        "deskPrice": 0
+      },
+      "46": {
+        "homePrice": 700,
+        "deskPrice": 0
+      },
+      "47": {
+        "homePrice": 1000,
+        "deskPrice": 500
+      },
+      "48": {
+        "homePrice": 600,
+        "deskPrice": 400
+      },
+      "49": {
+        "homePrice": 1300,
+        "deskPrice": 0
+      },
+      "50": {
+        "homePrice": 0,
+        "deskPrice": 0
+      },
+      "51": {
+        "homePrice": 900,
+        "deskPrice": 0
+      },
+      "52": {
+        "homePrice": 1300,
+        "deskPrice": 0
+      },
+      "53": {
+        "homePrice": 1300,
+        "deskPrice": 0
+      },
+      "54": {
+        "homePrice": 0,
+        "deskPrice": 0
+      },
+      "55": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "56": {
+        "homePrice": 1300,
+        "deskPrice": 0
+      },
+      "57": {
+        "homePrice": 900,
+        "deskPrice": 0
+      },
+      "58": {
+        "homePrice": 1000,
+        "deskPrice": 0
+      },
+      "01": {
+        "homePrice": 1100,
+        "deskPrice": 600
+      },
+      "02": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "03": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "04": {
+        "homePrice": 800,
+        "deskPrice": 400
+      },
+      "05": {
+        "homePrice": 800,
+        "deskPrice": 400
+      },
+      "06": {
+        "homePrice": 700,
+        "deskPrice": 400
+      },
+      "07": {
+        "homePrice": 900,
+        "deskPrice": 500
+      },
+      "08": {
+        "homePrice": 1300,
+        "deskPrice": 600
+      },
+      "09": {
+        "homePrice": 500,
+        "deskPrice": 350
+      }
+    }
+  },
+  "orders": [
+    {
+      "orderNumber": "FY-188237",
+      "createdAt": "2026-10-18T14:29:20.540Z",
+      "customerName": "ياسين بن عمر",
+      "phone": "0550123456",
+      "phone2": "0770987654",
+      "wilayaCode": "16",
+      "wilayaName": "الجزائر العاصمة",
+      "commune": "باب الزوار",
+      "address": "حي 5 جويلية بالقرب من الجامعة",
+      "deliveryType": "home",
+      "items": [
+        {
+          "id": "vlt-01",
+          "name": "سماعات Aether Pro Studio اللاسلكية",
+          "price": 18500,
+          "qty": 1
+        }
+      ],
+      "subtotal": 18500,
+      "shippingCost": 500,
+      "grandTotal": 19000,
+      "status": "pending",
+      "telegramSent": false
+    },
+    {
+      "orderNumber": "FY-908489",
+      "createdAt": "2026-10-18T14:27:04.685Z",
+      "customerName": "Youcef Feraoune",
+      "phone": "0669405190",
+      "phone2": "",
+      "wilayaCode": "12",
+      "wilayaName": "تبسة (Tébessa)",
+      "commune": "الماء الأبيض",
+      "address": "129",
+      "deliveryType": "home",
+      "items": [
+        {
+          "id": "prod-1792291605309",
+          "name": "حامل هاتف",
+          "price": 1500,
+          "qty": 1
+        }
+      ],
+      "subtotal": 1500,
+      "shippingCost": 900,
+      "grandTotal": 2400,
+      "status": "pending",
+      "telegramSent": true
+    },
+    {
+      "orderNumber": "FY-617591",
+      "createdAt": "2026-10-18T14:24:57.812Z",
+      "customerName": "Youcef Feraoune",
+      "phone": "0669405190",
+      "phone2": "",
+      "wilayaCode": "12",
+      "wilayaName": "تبسة (Tébessa)",
+      "commune": "الشريعة",
+      "address": "129",
+      "deliveryType": "home",
+      "items": [
+        {
+          "id": "fy-01",
+          "name": "ساعة كلاسيكية فاخرة Royal Chronograph Gold [ذهبي كلاسيكي]",
+          "price": 7800,
+          "qty": 1
+        }
+      ],
+      "subtotal": 7800,
+      "shippingCost": 900,
+      "grandTotal": 8700,
+      "status": "pending",
+      "telegramSent": true
+    },
+    {
+      "orderNumber": "FY-706543",
+      "createdAt": "2026-10-18T02:51:29.759Z",
+      "customerName": "Youcef Feraoun",
+      "phone": "0652885669",
+      "phone2": "",
+      "wilayaCode": "05",
+      "wilayaName": "باتنة (Batna)",
+      "commune": "نقاوس",
+      "address": "",
+      "deliveryType": "desk",
+      "items": [
+        {
+          "id": "prod-1792291605309",
+          "name": "حامل هاتف",
+          "price": 1500,
+          "qty": 1
+        }
+      ],
+      "subtotal": 1500,
+      "shippingCost": 400,
+      "grandTotal": 1900,
+      "status": "pending",
+      "telegramSent": true
+    }
+  ],
+  "products": []
+}

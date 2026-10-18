@@ -1,0 +1,20 @@
+{
+  "name": "foryou-dz-store",
+  "version": "1.0.0",
+  "description": "Foryou Algerian E-Commerce Store with COD, 58 Wilayas & Telegram Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "algeria",
+    "cod",
+    "telegram"
+  ],
+  "author": "Foryou Store",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
