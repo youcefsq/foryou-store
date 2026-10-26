@@ -1,5 +1,25 @@
 const DEFAULT_PRODUCTS = [
   {
+    id: "fy-ac-01",
+    name: "غطاء حماية المكيف الخارجي المقاوم للماء والعوامل الجوية",
+    category: "المنزل والمطبخ",
+    price: 1500,
+    oldPrice: 1700,
+    rating: 4.9,
+    reviews: 185,
+    inStock: true,
+    featured: true,
+    freeShipping: false,
+    variants: ["مقاس 9000 BTU", "مقاس 12000 BTU", "مقاس 18000 BTU"],
+    specs: ["قماش سكاي (Sky) خفيف عالي الجودة", "مضاد للماء والرطوبة 100%", "حماية من الشمس والغبار والبرد", "خيطين للتثبيت المحكم بدون مشبك", "اللون أسود ملكي"],
+    image: "images/ac-cover-1.jpg",
+    images: [
+      "images/ac-cover-1.jpg",
+      "images/ac-cover-2.jpg"
+    ],
+    description: "غطاء واقي للوحدة الخارجية للمكيف الهوائي، مصنوع من قماش سكاي (Sky) خفيف ومرن عالي الجودة ومقاوم للماء والأشعة فوق البنفسجية، يقي مكيفك من الصدأ والغبار والأمطار وأشعة الشمس الحارقة لإطالة عمره وحمايته طوال الفصول."
+  },
+  {
     id: "fy-01",
     name: "ساعة كلاسيكية فاخرة Royal Chronograph Gold",
     category: "ساعات وإكسسوارات",
@@ -258,6 +278,9 @@ function loadSavedProducts() {
       const isOnlyOldElectronics =
         saved.length > 0 && saved.every((p) => String(p.id).startsWith("vlt-"));
       if (!isOnlyOldElectronics) {
+        if (!saved.some((p) => p.id === "fy-ac-01")) {
+          saved.unshift(DEFAULT_PRODUCTS[0]);
+        }
         const enriched = enrichDefaultImages(saved);
         localStorage.setItem("foryou_products", JSON.stringify(enriched));
         return enriched;
